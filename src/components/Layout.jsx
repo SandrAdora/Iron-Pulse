@@ -11,7 +11,7 @@ export default function Layout(props)
     )
     const footer = (
         <footer>
-            <p>Built by <a href="https://app.netlify.com/teams/sandradora/projects" target="_blank"> Goodmorning Midnight Mirador</a><br />Styled with  
+            <p>Built by <a href="https://github.com/SandrAdora" target="_blank"> Goodmorning Midnight Mirador</a><br />Styled with  
             <a href="https://www.fantacss.smoljames.com" 
             target="_blank"> Fantacss </a></p>
         </footer>
