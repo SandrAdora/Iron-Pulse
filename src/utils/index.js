@@ -31,10 +31,10 @@ export const workoutProgram = {
             { name: "Bodyweight squats", sets: 2, reps: 20 }
         ],
         workout: [
-            { name: "Barbell squat", sets: 3, reps: 10 },
+            { name: "Bulgarian Split squats", sets: 3, reps: 10 },
             { name: "Leg press", sets: 3, reps: 10 },
             { name: "Hip thrust", sets: 3, reps: 10 },
-            { name: "Hamstring curl", sets: 3, reps: 12 },
+            { name: "Abduktion", sets: 3, reps: 20},
             { name: "Leg press calf raises", sets: 3, reps: 15 }
         ]
     },
